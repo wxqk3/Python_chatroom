@@ -1,6 +1,6 @@
 # Python_chatroom
 Python_chatroom_project.  <br/>
-The client program provides commands: 
+The client program provides commands:  <br/>
 login (allow users to join the chat room),  <br/>
 send (unicast or broadcast a message; actually send the message to the server and the server forwards the message),  <br/>
 logout (quit the chat room), and  <br/>
